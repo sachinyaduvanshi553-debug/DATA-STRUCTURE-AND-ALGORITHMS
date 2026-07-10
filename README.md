@@ -1,121 +1,189 @@
-# 🚀 Data Structures and Algorithms
+# 🚀 DATA STRUCTURE AND ALGORITHMS
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge\&logo=openjdk)
-![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge\&logo=leetcode)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-### A curated collection of Data Structures and Algorithms problems solved in Java.
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-100%20Days-blue?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📌 About
 
-This repository contains solutions to a wide range of Data Structures and Algorithms problems implemented in **Java**.
+This repository contains my Java solutions to Data Structures and Algorithms problems solved during my structured DSA practice.
 
-The collection is organized topic-wise to help with:
-
-* Interview preparation
-* Competitive programming
-* Problem-solving practice
-* Understanding algorithmic patterns
-* Strengthening core computer science fundamentals
+The objective of this repository is to build strong problem-solving skills, master interview-oriented DSA patterns, and prepare for software engineering interviews.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-* **Language:** Java
-* **IDE:** IntelliJ IDEA
-* **Platform:** LeetCode
-* **Version Control:** Git & GitHub
-
----
-
-## 📂 Repository Structure
-
-```text
-src/
-│
-├── Day-1_Binary_Search/
-├── Day-2_Binary_Search/
-├── Day-3_Binary_Search/
-├── ...
-├── Day-14_Strings_Basics/
-├── Day-15_Strings_Core/
-├── Day-16_Strings_Final/
-└── Day-17_Strings_Hard/
-```
+* Java
+* IntelliJ IDEA
+* Git & GitHub
+* LeetCode
 
 ---
 
 ## 📚 Topics Covered
 
-### 🔍 Searching
+### ✅ Arrays
 
-* Binary Search
+* Array Basics
+* Prefix Sum
+* Two Pointer
+* Sliding Window
+* Hashing Basics
+
+### ✅ Binary Search
+
+* Binary Search Basics
+* Search Variations
+* Lower Bound / Upper Bound
 * Search on Answer
-* Rotated Arrays
-* Matrix Search
-* Peak Element Problems
+* Advanced Binary Search
 
-### 🔄 Sorting
+### ✅ Sorting
 
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
 * Merge Sort
 * Quick Sort
+* Counting Sort
+* Heap Sort
 * Advanced Sorting Problems
 
-### 🔤 Strings
+### ✅ Strings
 
-* Two Pointers
-* Hash Maps & Frequency Arrays
-* Sliding Window
-* Stack-based String Problems
-* Greedy String Algorithms
-* Palindrome Techniques
-* Dynamic Programming on Strings
+* String Basics
+* Character Frequency
+* Two Pointer on Strings
+* String Manipulation
+* Pattern Matching
+* Advanced String Problems
 
-### 🔗 Upcoming Topics
+### ✅ 2D Arrays
 
-* Linked Lists
-* Stacks & Queues
-* Trees & BST
-* Heaps
+* Matrix Traversal
+* Matrix Operations
+* Spiral Matrix
+* Matrix Search
+* Matrix Transformations
+
+### ✅ Linked Lists
+
+* Singly Linked List
+* Fast & Slow Pointer
+* Reverse Linked List
+* Merge Lists
+* Cycle Detection
+* Reorder List
+* Partition List
+* Rotate List
+* Add Two Numbers
+* Reverse Nodes in K Group
+* Copy Random Pointer
+* Flatten Multilevel Doubly Linked List
+* Palindrome Linked List
+* Split Linked List in Parts
+
+---
+
+## 📂 Repository Structure
+
+```text
+DATA-STRUCTURE-AND-ALGORITHMS/
+│
+├── Day-01_Arrays_BinarySearch
+├── Day-02_TwoPointers
+├── Day-03_BinarySearch_Variations
+├── Day-04_Advanced_BinarySearch
+├── Day-05_BinarySearch_Revision
+│
+├── Day-06_Sorting
+├── ...
+├── Day-13_Sorting_Revision
+│
+├── Day-14_Strings_Basics
+├── ...
+├── Day-18_Strings_Revision
+│
+├── Day-19_2D_Array
+├── Day-20_2D_Array_Revision
+│
+├── Day-21_LinkedList_Fundamentals
+├── Day-22_LinkedList_Easy
+├── Day-23_LinkedList_Medium
+├── Day-24_LinkedList_Medium_Part2
+├── Day-25_LinkedList_Final
+│
+└── README.md
+```
+
+---
+
+## 🎯 Problem Solving Focus
+
+* Clean Java implementations
+* Optimized solutions
+* Multiple approaches where applicable
+* Interview-oriented coding patterns
+* Well-organized daily folders
+
+---
+
+## 🏆 Current Progress
+
+* ✅ Arrays
+* ✅ Binary Search
+* ✅ Sorting
+* ✅ Strings
+* ✅ 2D Arrays
+* ✅ Linked Lists
+
+**Current Progress:** **Day 25 / 100**
+
+---
+
+## 🔜 Upcoming Topics
+
+* Stack
+* Queue
+* Recursion
+* Backtracking
+* Trees
+* Binary Search Trees
+* Heap
+* Greedy
 * Graphs
 * Dynamic Programming
-* Tries
-* Greedy Algorithms
-* Backtracking
+* Trie
+* Segment Tree
+* Union Find
+* Bit Manipulation
 
 ---
 
-## 🎯 Coding Principles
+## 🌟 Repository Goals
 
-* Clean and readable code
-* Meaningful class and file names
-* Optimal time and space complexity
-* Consistent project structure
-* Topic-wise organization
-
----
-
-## 🤝 Contributions
-
-Suggestions, improvements, and discussions are always welcome.
-
-If you find this repository useful, consider giving it a ⭐.
+* Solve hundreds of quality DSA problems
+* Master common coding interview patterns
+* Build a well-structured Java DSA repository
+* Prepare for product-based company interviews
 
 ---
 
-<div align="center">
+## 👨‍💻 Author
 
-### Happy Coding! 🚀
+**Sachin Yadav**
 
-</div>
+* Java Developer
+* DSA Enthusiast
+* MERN Stack Developer
+* AI/ML Enthusiast
+
+---
+
+⭐ If you find this repository helpful, consider giving it a **Star**.
