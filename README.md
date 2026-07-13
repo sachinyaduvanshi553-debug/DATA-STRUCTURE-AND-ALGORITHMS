@@ -1,8 +1,8 @@
 # 📚 DATA‑STRUCTURE‑AND‑ALGORITHMS
 
-![Banner](repo_demo_1783955754739.png)
+![Banner](assets/repo_demo_1783955754739.png)
 
-A **modern, high‑tech collection** of Java implementations covering core data structures and algorithms. Perfect for interview preparation, learning, and quick reference.
+A **modern, high‑tech collection** of Java implementations covering core data structures and algorithms. Ideal for interview preparation, learning, and quick reference.
 
 ---
 
@@ -27,7 +27,9 @@ java -cp src Main      # Run the demo driver (if needed)
 ```
 DATA-STRUCTURE-AND-ALGORITHMS-main/
 ├─ .gitignore                # Standard Java ignores
-├─ README.md                 # ★ This file
+├─ assets/                   # Media assets (banner, etc.)
+├─ README.md                 # This file
+├─ pom.xml                   # Maven build configuration
 ├─ src/                      # Source code
 │   ├─ ARRAYS/               # Array‑centric examples
 │   ├─ BASICS/               # Core Java basics
@@ -38,17 +40,49 @@ DATA-STRUCTURE-AND-ALGORITHMS-main/
 
 ---
 
-## 🛠️ Build & Run (Maven/Gradle optional)
-
-For a more scalable workflow, you can initialize a Maven wrapper:
+## 🛠️ Build & Run (Maven optional)
 
 ```bash
+# Initialise Maven wrapper (once)
 mvn -N io.takari:maven:wrapper
+
+# Compile and execute
 ./mvnw compile
 ./mvnw exec:java -Dexec.mainClass=Main
 ```
 
-*Feel free to replace with Gradle if you prefer.*
+*Feel free to use Gradle if you prefer.*
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-100%20Days-blue?style=for-the-badge)
+
+---
+
+## 📚 Topics Covered
+
+### ✅ Arrays
+- Basics, Prefix Sum, Two Pointer, Sliding Window, Hashing
+
+### ✅ Binary Search
+- Basics, Variations, Lower/Upper Bound, Search on Answer, Advanced
+
+### ✅ Sorting
+- Bubble, Selection, Insertion, Merge, Quick, Counting, Heap, Advanced
+
+### ✅ Strings
+- Basics, Frequency, Two Pointer, Manipulation, Pattern Matching, Advanced
+
+### ✅ 2D Arrays
+- Traversal, Operations, Spiral, Search, Transformations
+
+### ✅ Linked Lists
+- Singly, Fast & Slow, Reverse, Merge, Cycle Detection, Reorder, Partition, Rotate, Add Two Numbers, Reverse K‑Group, Copy Random Pointer, Flatten Multilevel, Palindrome, Split
 
 ---
 
@@ -56,8 +90,8 @@ mvn -N io.takari:maven:wrapper
 
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feat/your-feature`).
-3. Add/modify code following Java conventions (CamelCase, Javadoc).
-4. Write unit tests under `src/test/` (JUnit 5 recommended).
+3. Follow Java conventions (CamelCase, Javadoc).
+4. Add unit tests under `src/test/` (JUnit 5 recommended).
 5. Submit a Pull Request.
 
 ---
@@ -65,6 +99,12 @@ mvn -N io.takari:maven:wrapper
 ## 📜 License
 
 Distributed under the **MIT License**. See `LICENSE` for details.
+
+---
+
+## 👨‍💻 Author
+
+**Sachin Yadav** – Java Developer, DSA enthusiast, MERN Stack & AI/ML fan.
 
 ---
 
