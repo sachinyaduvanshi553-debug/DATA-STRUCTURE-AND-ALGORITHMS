@@ -72,5 +72,5 @@ After completing Day 35:
 
 ✅ Understand Queue operations  
 ✅ Implement Circular Queue  
-✅ Solve queue simulation problems  
+✅ Solve queue simulation problems  .
 ✅ Apply Queue for real-world scenarios  
