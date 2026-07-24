@@ -52,7 +52,7 @@ Concepts:
 - Sliding Window
 - Queue
 
-....
+..........
 
 ## Complexity
 
