@@ -85,15 +85,28 @@ java -cp src Main
 
 ```
 📦 DATA-STRUCTURE-AND-ALGORITHMS-main/
- ┣ 📂 assets/              → 🖼️  Media assets (banner, screenshots)
+ ┣ 📂 assets/                          → 🖼️  Media assets (banner, screenshots)
  ┣ 📂 src/
- ┃  ┣ 📂 ARRAYS/           → 🔢  Array manipulations, two-sum, rotation
- ┃  ┣ 📂 BASICS/           → 📖  Java fundamentals, loops, patterns
- ┃  ┣ 📂 SORTING_ALGOS/    → 🔄  Sorting algorithms (merge, quick, …)
- ┃  ┗ 📄 Main.java         → 🚪  Entry point for quick demos
- ┣ 📄 pom.xml              → ⚙️  Maven build configuration
- ┣ 📄 .gitignore           → 🚫  Standard Java ignores
- ┗ 📄 README.md            → 📜  This file
+ ┃  ┣ 📂 ARRAYS/                       → 🔢  Array manipulations, two-sum, rotation
+ ┃  ┣ 📂 BASICS/                       → 📖  Java fundamentals, loops, patterns
+ ┃  ┣ 📂 SORTING_ALGOS/                → 🔄  Sorting algorithms (merge, quick, …)
+ ┃  ┣ 📂 Day-1  → Day-5/               → 🔍  Arrays & Binary Search
+ ┃  ┣ 📂 Day-6  → Day-13/              → 🔄  Sorting (Bubble → Advanced) & Revision
+ ┃  ┣ 📂 Day-14 → Day-18/              → 🔤  Strings (Basics → Hard → Revision)
+ ┃  ┣ 📂 Day-19 → Day-20/              → 🗺️  2D Arrays
+ ┃  ┣ 📂 Day-21 → Day-25/              → 🔗  Linked Lists (Fundamentals → Final)
+ ┃  ┣ 📂 Day-26/                       → 🔍  Binary Search Revision
+ ┃  ┣ 📂 Day-27 → Day-30/              → 🔁  Recursion & Backtracking
+ ┃  ┣ 📂 Day-31/                       → 🔗  Linked List Revision
+ ┃  ┣ 📂 Day-32 → Day-35/              → 📊  Stacks (Basics → Hard)
+ ┃  ┣ 📂 Day-36 → Day-37/              → 📊  Queues (Basics → Medium)
+ ┃  ┣ 📂 Day-38/                       → 📊  Deque & Priority Queue
+ ┃  ┣ 📂 Day-39 → Day-40/              → 📊  Stack & Queue (Advanced → Hard)
+ ┃  ┣ 📂 Day-41/                       → 📊  Stacks & Queues Revision
+ ┃  ┗ 📄 Main.java                     → 🚪  Entry point for quick demos
+ ┣ 📄 pom.xml                          → ⚙️  Maven build configuration
+ ┣ 📄 .gitignore                       → 🚫  Standard Java ignores
+ ┗ 📄 README.md                        → 📜  This file
 ```
 
 ---
@@ -119,7 +132,8 @@ java -cp src Main
 | **🔤 Strings** | Basics · Frequency · Two Pointer · Manipulation · Pattern Matching | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **🗺️ 2D Arrays** | Traversal · Operations · Spiral · Search · Transformations | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **🔗 Linked Lists** | Singly · Fast & Slow · Reverse · Merge · Cycle Detection · Reorder | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
-| **📊 Stacks & Queues** | Monotonic Stack · Deque · Priority Queue | ![WIP](https://img.shields.io/badge/-In%20Progress-FFA500?style=flat-square) |
+| **🔁 Recursion** | Basics · Backtracking · Permutations · Combinations · N-Queens | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
+| **📊 Stacks & Queues** | Stack · Queue · Monotonic Stack · Deque · Priority Queue · LRU/LFU Cache | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **🌳 Trees** | BST · DFS · BFS · AVL · Heaps | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
 | **📐 Graphs** | BFS · DFS · Dijkstra · Topological Sort | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
 | **💎 Dynamic Programming** | Memoization · Tabulation · Knapsack · LCS · LIS | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
