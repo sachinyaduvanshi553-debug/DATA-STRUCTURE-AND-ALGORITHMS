@@ -102,7 +102,9 @@ java -cp src Main
  ┃  ┣ 📂 Day-36 → Day-37/              → 📊  Queues (Basics → Medium)
  ┃  ┣ 📂 Day-38/                       → 📊  Deque & Priority Queue
  ┃  ┣ 📂 Day-39 → Day-40/              → 📊  Stack & Queue (Advanced → Hard)
- ┃  ┣ 📂 Day-41/                       → 📊  Stacks & Queues Revision
+ ┃  ┣ 📂 Day-41 → Day-44/              → 🔄  Revision (Stacks, Queues, Sorting, Searching, Strings)
+ ┃  ┣ 📂 Day-45 → Day-50/              → 🌳  Trees (Basics → Advanced → Revision)
+ ┃  ┣ 📂 Day-51 → Day-56/              → 📐  Graphs (Basics → Advanced) & Trees Revision
  ┃  ┗ 📄 Main.java                     → 🚪  Entry point for quick demos
  ┣ 📄 pom.xml                          → ⚙️  Maven build configuration
  ┣ 📄 .gitignore                       → 🚫  Standard Java ignores
@@ -134,8 +136,8 @@ java -cp src Main
 | **🔗 Linked Lists** | Singly · Fast & Slow · Reverse · Merge · Cycle Detection · Reorder | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **🔁 Recursion** | Basics · Backtracking · Permutations · Combinations · N-Queens | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **📊 Stacks & Queues** | Stack · Queue · Monotonic Stack · Deque · Priority Queue · LRU/LFU Cache | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
-| **🌳 Trees** | BST · DFS · BFS · AVL · Heaps | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
-| **📐 Graphs** | BFS · DFS · Dijkstra · Topological Sort | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
+| **🌳 Trees** | BST · DFS · BFS · AVL · Heaps | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
+| **📐 Graphs** | BFS · DFS · Dijkstra · Topological Sort | ![Done](https://img.shields.io/badge/-Covered-00C851?style=flat-square) |
 | **💎 Dynamic Programming** | Memoization · Tabulation · Knapsack · LCS · LIS | ![Coming](https://img.shields.io/badge/-Coming%20Soon-blue?style=flat-square) |
 
 </div>
