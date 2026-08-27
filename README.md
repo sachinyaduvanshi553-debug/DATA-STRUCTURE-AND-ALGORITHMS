@@ -105,6 +105,7 @@ java -cp src Main
  ┃  ┣ 📂 Day-41 → Day-44/              → 🔄  Revision (Stacks, Queues, Sorting, Searching, Strings)
  ┃  ┣ 📂 Day-45 → Day-50/              → 🌳  Trees (Basics → Advanced → Revision)
  ┃  ┣ 📂 Day-51 → Day-56/              → 📐  Graphs (Basics → Advanced) & Trees Revision
+ ┃  ┣ 📂 Day-57 → Day-70/              → ⚙️  Advanced Patterns (Sliding Window, Greedy, Divide & Conquer, Monotonic)
  ┃  ┗ 📄 Main.java                     → 🚪  Entry point for quick demos
  ┣ 📄 pom.xml                          → ⚙️  Maven build configuration
  ┣ 📄 .gitignore                       → 🚫  Standard Java ignores
